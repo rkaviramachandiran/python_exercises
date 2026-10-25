@@ -9,5 +9,8 @@ while num<=100:
     sum_of_even+=num
     num+=2
 
-print(sum_of_even)
-  
+print("sum of even number 1 to 100 is ",sum_of_even)
+
+# sample output 
+
+# sum of even number 1 to 100 is  2550
